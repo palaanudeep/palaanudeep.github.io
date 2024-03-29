@@ -1,0 +1,36 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer Intern",
+            "subtitle": "Zumigo Inc.",
+            "workType": "Internship",
+            "workDescription": [
+                "Engineered efficient and scalable REST APIs in Python and Java for a reporting system, enabling accurate identification and flagging of high-risk level orders",
+                "Developed deRiskify’s daily reporting system in Flask, and MongoDB to understand customer activity and the risk level of orders placed on Shopify stores"
+            ],
+            "dateText": "06/2022 – 08/2022"
+        },
+        {
+            "title": "Senior Software Engineer",
+            "subtitle": "AEye SoftLabs Pvt. Ltd.",
+            "workType": "Full-time",
+            "workDescription": [
+                "Re-architected RESTful API using Python (Flask) and JavaScript (Node.js) to gracefully handle a 25% increase in concurrent user load while maintaining sub-second response times",
+                "Developed a React/Redux dashboard providing real-time visualizations and controls, empowering users with instant data insights and leading to a 20% gain in operational efficiency",
+                "Designed a distributed microservice architecture for a real-time data processing application, leading to a 4x throughput increase and enabling the handling of peak load spikes"
+            ],
+            "dateText": "08/2017 – 06/2021"
+        },
+        {
+            "title": "Software Development Engineer",
+            "subtitle": "Voonik Technologies Pvt. Ltd.",
+            "workType": "Full-time",
+            "workDescription": [
+                "Integrated third-party payment service APIs (Java), resulting in a 20% increase in successful transactions and a 15% decline in payment errors",
+                "Built a notification service system using AWS EC2 and S3, integrating seamlessly with other systems, reducing development time by 25% and enhancing adaptability by 20%",
+                "Championed best practices and agile methodologies, leading to a 20% improvement in team productivity and faster delivery of high-quality releases"
+            ],
+            "dateText": "05/2016 – 07/2017"
+        }
+    ]
+}
