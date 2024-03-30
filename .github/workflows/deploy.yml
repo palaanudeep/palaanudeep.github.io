@@ -1,0 +1,27 @@
+name: Build and Deploy to GitHub Pages
+
+on: [push]
+permissions:
+    contents: write
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v3
+
+            - name: Setup Node.js
+              uses: actions/setup-node@v3
+              with:
+                  node-version: '18'
+            - name: Install Dependencies
+              run: yarn install
+
+            - name: Build react app
+              run: yarn build
+
+            # - run: yarn deploy
+            - name: Deploy 🚀
+              uses: JamesIves/github-pages-deploy-action@v4
+              with:
+                folder: build
