@@ -1,0 +1,90 @@
+{
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/cpp.svg",
+                    "title": "C++"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MongoDB"
+                },
+                {
+                    "icon": "images/skills/postgresql.svg",
+                    "title": "PostgreSQL"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/flask.svg",
+                    "title": "Flask"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/nodejs.svg",
+                    "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/langchain.svg",
+                    "title": "LangChain"
+                },
+                {
+                    "icon": "images/skills/tensorflow.svg",
+                    "title": "TensorFlow"
+                },
+                {
+                    "icon": "images/skills/pytorch.svg",
+                    "title": "PyTorch"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/aws.svg",
+                    "title": "AWS"
+                },
+                {
+                    "icon": "images/skills/redis.svg",
+                    "title": "Redis"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/jenkins.svg",
+                    "title": "Jenkins"
+                }
+            ]
+    }
+]}

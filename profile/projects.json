@@ -1,0 +1,77 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/DocuMate.png",
+            "title": "DocuMate - A Document Analysis and Q&A Chatbot",
+            "bodyText": "- Built a document analysis chatbot providing Q&A on any PDF document using Retrieval-Augmented Generation (RAG) with the power of LLMs\n - Leveraged a range of technologies consisting of LangChain, OpenAI, Chroma DB, Flask, React.js, Bootstrap, and CSS, to ensure smooth and reliable performance for users",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/palaanudeep/documate"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://github.com/palaanudeep/documate"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Flask",
+                "LangChain",
+                "OpenAI",
+                "Chroma DB",
+                "PostgreSQL",
+                "LLMs"
+            ]
+        },
+        {
+            "title": "Make Event Happen - Event Management Application",
+            "bodyText": "- Constructed a web application for the Stevens community that enables users to create and manage events, and participate in forum discussions and one-on-one chats with event hosts, resulting in more community engagement\n - Employed a powerful technology stack consisting of React.js, Node.js, Redis, Socket.io, Python, Selenium, Heroku, and MongoDB Atlas to deliver a highly responsive and interactive experience",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/palaanudeep/cs554-fabfive-finalproject"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://github.com/palaanudeep/cs554-fabfive-finalproject"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Node.js",
+                "WebSocket",
+                "Redis",
+                "Python",
+                "Selenium",
+                "Heroku",
+                "MongoDB"
+            ]
+        },
+        {
+            "title": "Online Medical Consultation Application",
+            "bodyText": "- Built a cutting-edge web application that enables patients to schedule appointments for both online video consultations and in-person visits with nearby doctors\n - Leveraged a range of advanced technologies, including Node.js, Express.js, Socket.io, jQuery, Bootstrap, HTML5, CSS, and MongoDB Atlas, to ensure smooth and reliable performance for users",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/palaanudeep/cs546_web_project"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://github.com/palaanudeep/cs546_web_project"
+                }
+            ],
+            "tags" : [
+                "Node.js",
+                "Express.js",
+                "WebSocket",
+                "jQuery",
+                "Bootstrap",
+                "HTML5",
+                "CSS",
+                "MongoDB",
+                "Heroku"
+            ]
+        }
+    ]
+}

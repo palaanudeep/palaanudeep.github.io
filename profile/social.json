@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/anudeeppala/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/palaanudeep"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:anudeep.pala@gmail.com"
+        }
+    ]
+}
