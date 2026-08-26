@@ -1,6 +1,20 @@
 {
     "projects" : [
         {
+            "title": "SuperWiseChat",
+            "bodyText": "- A chat application powered by LLMs",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/palaanudeep/SuperWiseChat"
+                }
+            ],
+            "tags" : [
+                "LLMs",
+                "Chat"
+            ]
+        },
+        {
             "image" : "images/projects/DocuMate.png",
             "title": "DocuMate - A Document Analysis and Q&A Chatbot",
             "bodyText": "- Built a document analysis chatbot providing Q&A on any PDF document using Retrieval-Augmented Generation (RAG) with the power of LLMs\n - Leveraged a range of technologies consisting of LangChain, OpenAI, Chroma DB, Flask, React.js, Bootstrap, and CSS, to ensure smooth and reliable performance for users",
